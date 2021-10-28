@@ -301,7 +301,7 @@ public class EnemyController : MonoBehaviour
     {
         if (m_NavMeshAgent)
         {
-            m_NavMeshAgent.SetDestination(destination);
+            //m_NavMeshAgent.SetDestination(destination);
         }
     }
 
